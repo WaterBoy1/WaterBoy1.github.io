@@ -1,4 +1,8 @@
-# WaterBoy1.github.io
+# WaterBoy1.github
 
+This is my website.
 
-WASSUP BOIS
+There is nothing here yet.
+
+Keep coming here for updates!
+
