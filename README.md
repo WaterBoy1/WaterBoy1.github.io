@@ -4,5 +4,5 @@ This is my website.
 
 There is nothing here yet.
 
-Keep coming here for updates!
+Keep coming here for updates.
 
