@@ -1,7 +1,3 @@
-<head>
-  <title>HTML Reference</title>
-</head>
-
 
 # WaterBoy1.github
 
