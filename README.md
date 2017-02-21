@@ -1,5 +1,5 @@
 
-# WaterBoy1.github
+# My Website
 
 This is my website.
 
