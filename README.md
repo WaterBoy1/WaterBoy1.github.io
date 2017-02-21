@@ -1,5 +1,5 @@
 
-# My Website
+# WaterBoy1.github.io
 
 This is my website.
 
@@ -7,5 +7,5 @@ There is nothing here yet.
 
 Keep coming here for updates.
 
-V. 0.0.2
+V. 0.0.1
 
